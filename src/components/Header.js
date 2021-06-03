@@ -32,7 +32,7 @@ function Header() {
           <CustomClose onClick={() => setBurgerStatus(false)} />
         </CloseWrapper>
         <li>
-          <a href="model-s">Model S</a>
+          <a href="#model-s">Model S</a>
         </li>
         <li>
           <a href="#model-3">Model 3</a>
