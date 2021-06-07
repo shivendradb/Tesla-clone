@@ -6,7 +6,9 @@ This project is a clone of the Tesla website. You may visit the site by this lin
 
 # Home Page
 
-![Home Page](./public/images/tesla-gif.gif)
+<p align="center">
+<img src="./public/images/tesla-gif.gif" height=400px>
+</p>
 
 # Note For Developers
 
