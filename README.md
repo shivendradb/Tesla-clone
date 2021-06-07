@@ -6,7 +6,7 @@ This project is a clone of the Tesla website. You may visit the site by this lin
 
 # Home Page
 
-![Home Page](tesla.jpg)
+![Home Page](./public/images/tesla.JPG)
 
 # Note For Developers
 
